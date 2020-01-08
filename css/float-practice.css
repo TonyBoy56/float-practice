@@ -1,9 +1,23 @@
+body {
+  font-family: helvetica;
+}
+
+h1 {
+  text-align: center;
+}
+
 img {
   float:left;
+  padding: 10px;
+  border: 10px solid black;
+  margin: 15px;
 }
 
 .sidebar {
-  float: left;
+  float: right;
   background-color: orange;
-  width: 25%;
+  width: 20%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 2px solid black;
 }
